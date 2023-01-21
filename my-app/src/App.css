@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.nombrePokemon {
+  color: blue;
+  text-transform: uppercase;
+}
